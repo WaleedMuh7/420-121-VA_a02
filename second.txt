@@ -1,2 +1,3 @@
+I adde something to the start of the file.
 That's my second file
 It is a file
